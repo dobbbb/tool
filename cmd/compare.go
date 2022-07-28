@@ -1,7 +1,7 @@
 package cmd
 
 import (
-	"dobbbb/tool/es"
+	"github.com/dobbbb/tool/es"
 	"encoding/json"
 	"github.com/spf13/cobra"
 	"log"

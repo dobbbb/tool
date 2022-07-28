@@ -3,7 +3,7 @@ Copyright © 2022
 */
 package main
 
-import "dobbbb/tool/cmd"
+import "github.com/dobbbb/tool/cmd"
 
 func main() {
 	cmd.Execute()

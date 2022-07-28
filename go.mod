@@ -1,4 +1,4 @@
-module dobbbb/tool
+module github.com/dobbbb/tool
 
 go 1.16
 
